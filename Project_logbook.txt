@@ -1,0 +1,4 @@
+[2025-09-18] Kickoff: roles set (Reviewer: <name>; Dev: <A>, <B>)
+Data: raw transcripts stored with restricted access; repo holds anonymised docs only
+Tasks: A - survey cleaning plan; B - literature review summary
+Next: create PR (no-conflict), then simulate conflict on line 1 and resolve
